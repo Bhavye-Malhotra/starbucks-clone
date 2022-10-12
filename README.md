@@ -33,5 +33,5 @@ To start contributing, follow the below guidelines:
 **7.** Push your local commits to the remote repo.
 
 ```
-   git push origin YourBranchName
+   git push origin Your_Branch_Name
 ```
